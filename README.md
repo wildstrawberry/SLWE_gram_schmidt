@@ -1,3 +1,4 @@
 # SLWE_gram_schmidt
 
-Sage code for computing the length of the gram-schmidt vectors of the error states. 
+Sage code for computing the lengths of the Gram-Schmidt Orthogonalization of circulant matrices. 
+For the purpose of https://eprint.iacr.org/2021/1093
